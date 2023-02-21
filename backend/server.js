@@ -23,7 +23,7 @@ mongoose
     // listen for requests
     app.listen(process.env.PORT, () => {
       console.log("listening on port 4000");
-    });b 
+    });
   })
   .catch((error) => {
     console.log(error);

@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom";
+import { WorkoutsContext } from "./context/WorkoutContext";
 // Pages & components
 import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
